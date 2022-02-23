@@ -1,0 +1,92 @@
+.container {
+    width: 100%;
+    height: 100vh;
+    background-color: #fcfaf7;
+    position: relative;
+}
+.banner {
+    position: relative;
+    top: 180px;
+    left: 25%;
+    width: 1186px;
+    height: 720px;
+    background-color: #0e1649;
+
+}
+
+.banner h1{
+    flex-grow: 0;
+    font-family: Assistant;
+    font-size: 64px;
+    font-weight: 800;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fcfaf7;
+    position: relative;
+    top: 318px;  
+}
+
+.Rectangle-1{
+    width: 176px;
+    height: 176px;
+    background-color: #ff7748;
+    position: absolute;
+    bottom: -88px;
+    left: -88px;
+}
+
+.Rectangle-2{
+    width: 176px;
+    height: 176px;
+    background-color: #ff7748;
+    position: absolute;
+    top: 199px;
+    right: -88px;
+}
+
+.Ellipse-1{
+    width: 104px;
+    height: 104px;
+    border-radius: 52px;
+    background-color: #ff9f00;
+    position: absolute;
+    bottom: -52px;
+    left: 151px;
+}
+
+.Ellipse-2{
+    width: 284px;
+    height: 284px;
+    border-radius: 141px;
+    background-color: #ff9f00;
+    position: absolute;
+    top: -142px;
+    right: -142px;
+}
+
+.polygon-1{
+    width: 163px;
+    height: 163px;
+    position: absolute;
+    top: -82px;
+    right: 188px;
+}
+
+.polygon-2{
+    width: 132px;
+    height: 132px;
+    position: absolute;
+    left: -65px;
+    bottom: 155px;
+}
+
+.logo{
+    width: 360px;
+    height: 121px;
+    position: absolute;
+    top: 78px;
+    left: -180px;
+}
